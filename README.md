@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/yskjg0gb4uompvmm?svg=true)](https://ci.appveyor.com/project/Chuzhoi/api-autotest)
+[![Build status](https://ci.appveyor.com/api/projects/status/mp58khsrsdrtaxe1?svg=true)](https://ci.appveyor.com/project/Chuzhoi/postmanechotest)
